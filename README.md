@@ -1,9 +1,9 @@
-# Talon Finance Ops Site
+# Sophia Talon Public Site
 
 Static public microsite for GitHub Pages deployment.
 
 ## Purpose
 
-- Provide a free public URL for the LinkedIn Page website field.
-- Present Talon Finance Ops as an independent referral and recruiting surface.
-- Route qualified visitors to the live Handshake referral link and Sophia Talon's interim LinkedIn profile while the company page wait window is active.
+- Provide a neutral public website for Sophia Talon's LinkedIn presence.
+- Present Sophia as an independent consultant rather than a single-program operator.
+- Support multiple referral, sourcing, and partner program lanes without exposing internal operating details.
